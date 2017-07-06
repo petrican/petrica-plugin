@@ -1,0 +1,11 @@
+.distance {
+    margin-top: 20px;
+}
+.bolded {
+    font-weight: 700;
+}
+
+.valueBolded {
+    font-weight: 700;
+    color: #000000 !important;
+}
